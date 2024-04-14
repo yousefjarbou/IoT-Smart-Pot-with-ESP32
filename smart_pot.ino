@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6r7KMFYUA"
-#define BLYNK_TEMPLATE_NAME "plant3"
-#define BLYNK_AUTH_TOKEN "dxGnJyksuaq0Prhgh99kkXZsPlIFWU9p"
+#define BLYNK_TEMPLATE_ID "###"
+#define BLYNK_TEMPLATE_NAME "###"
+#define BLYNK_AUTH_TOKEN "###"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
@@ -76,7 +76,7 @@ void connectToWifi(){
   // Start WiFiManager
     WiFiManager wm;
     wm.setConfigPortalTimeout(150);
-    if (!wm.autoConnect("yousefpot3")) {
+    if (!wm.autoConnect("###")) {
         ESP.restart();
     }
 
