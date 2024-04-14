@@ -1,4 +1,4 @@
-# Programming IoT Smart Pot with ESP32 and WiFi Connectivity
+# Programming IoT Smart Pot with ESP32 and WiFi Connectivity March 2024
 
 Welcome to the repository for the IoT Smart Pot project! This project focuses on developing a WiFi-enabled Smart Pot IoT Device using the ESP32 microcontroller and various sensors. With Blynk app integration, users can monitor plant health remotely and visualize real-time data effortlessly. The project utilizes the WiFiManager library for seamless WiFi configuration and multi-user collaboration.
 
