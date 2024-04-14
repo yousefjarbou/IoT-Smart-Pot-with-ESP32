@@ -17,8 +17,9 @@ Hardware Used:
 The Smart Pot sends notifications to the user when the soil moisture level is low, indicating that the plant needs watering. This project serves as the initial step, with plans for future development including the creation of a dedicated mobile app for enhanced user experience.
 
 ![WhatsApp Image 2024-04-14 at 10 15 08 AM](https://github.com/yousefjarbou/IoT-Smart-Pot-with-ESP32/assets/166923297/8cbfcade-e2a1-4eff-a38b-077985289c9e)
-![WhatsApp Image 2024-04-14 at 10 15 06 AM](https://github.com/yousefjarbou/IoT-Smart-Pot-with-ESP32/assets/166923297/8f19a3e6-fe48-4bd3-bde7-3c25182277dd)
-![WhatsApp Image 2024-04-14 at 10 15 05 AM](https://github.com/yousefjarbou/IoT-Smart-Pot-with-ESP32/assets/166923297/49735787-2a7c-4567-be90-15781b3f886a)
+
+![image](https://github.com/yousefjarbou/IoT-Smart-Pot-with-ESP32/assets/166923297/55266a52-e727-4493-88e5-d250f90c4ab9)
+
 
 First Prototype:
 
